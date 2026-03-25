@@ -1,0 +1,19 @@
+name: cached_network_image_max_platform_interface
+description: Platform interface for CachedNetworkImageMax
+version: 4.1.1
+homepage: https://github.com/HanQiGod/cached_network_image_max
+
+environment:
+  sdk: ^3.0.0
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_cache_manager: ^3.4.1
+
+dev_dependencies:
+  file: '>=7.0.0 <8.0.0'
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
