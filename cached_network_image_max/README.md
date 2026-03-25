@@ -5,7 +5,7 @@
 
 A flutter library to show images from the internet and keep them in the cache directory.
 
-
+# 技术支持邮箱(1539841933@qq.com)。
 
 ## Sponsors
 

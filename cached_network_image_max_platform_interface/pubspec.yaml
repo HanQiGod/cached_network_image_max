@@ -1,6 +1,6 @@
 name: cached_network_image_max_platform_interface
 description: Platform interface for CachedNetworkImageMax
-version: 4.1.1
+version: 4.2.0
 homepage: https://github.com/HanQiGod/cached_network_image_max
 
 environment:
